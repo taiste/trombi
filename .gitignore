@@ -1,5 +1,6 @@
 tmp
 *.py[co]
+*.swp
 /MANIFEST
 /build
 /dist
